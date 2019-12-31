@@ -1,7 +1,1 @@
-{
-  "notifications": [
-    { "id":1, "image": "https://iili.io/HMcET7.png", "title": "What is Lorem Ipsum?", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "datetime": "Apr 14  12:15"},
-    { "id":2, "image": "https://iili.io/HMclv2.png", "title": "What is Lorem Ipsum?", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "datetime": "Apr 14  12:15"},
-    { "id":3, "image": "https://iili.io/HMc0pS.png", "title": "What is Lorem Ipsum?", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "datetime": "Apr 14  12:15"}
-  ]
-}
+{"notifications": [{ "id":1, "image": "https://iili.io/HMcET7.png", "title": "What is Lorem Ipsum?", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "datetime": "Apr 14  12:15"},{ "id":2, "image": "https://iili.io/HMclv2.png", "title": "What is Lorem Ipsum?", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "datetime": "Apr 14  12:15"},{ "id":3, "image": "https://iili.io/HMc0pS.png", "title": "What is Lorem Ipsum?", "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "datetime": "Apr 14  12:15"}]}
