@@ -1,6 +1,6 @@
 {
-  "notifications": {
+  "noti": {
       "id": "1",
-      "image": "https://iili.io/HMcET7.png"
+      "name": "http path"
   }
 }
