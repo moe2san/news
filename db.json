@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 0, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 0, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "notifications": [
+    {
+      "id": 0,
+      "image": "https://iili.io/HMcET7.png",
+      "title": "What is Lorem Ipsum?",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "datetime": "Apr 14  12:15"
+    }
+  ]
 }
