@@ -1,11 +1,8 @@
 {
   "notifications": [
     {
-      "id": 1,
-      "image": "https://iili.io/HMcET7.png",
-      "title": "What is Lorem Ipsum?",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-      "datetime": "Apr 14  12:15"
+      "id": "1",
+      "image": "https://iili.io/HMcET7.png"
     }
   ]
 }
