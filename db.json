@@ -1,8 +1,6 @@
 {
-  "notifications": [
-    {
+  "notifications": {
       "id": "1",
       "image": "https://iili.io/HMcET7.png"
-    }
-  ]
+  }
 }
